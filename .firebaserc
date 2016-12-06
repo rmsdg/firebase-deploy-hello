@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "sa": "catch-of-the-day-rmdg",
+    "test": "fir-sample-deploy-rmdg",
+    "default": "fir-sample-deploy-rmdg"
+  }
+}
